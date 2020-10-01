@@ -7,7 +7,8 @@ Version: 3.x
 Platfrom: Pycharm Community Version
 
 """
-
+a = 'WELCOME TO THIS CALCULATOR'
+print(a.center(60))
 
 from tkinter import *;
 from tkinter import messagebox;
